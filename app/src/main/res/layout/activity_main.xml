@@ -203,7 +203,7 @@
                     android:layout_marginHorizontal="8dp"
                     android:layout_marginBottom="8dp"
                     android:max="100"
-                    android:progress="30"
+                    android:progress="35"
                     android:progressTint="#FF7373"
                     android:thumbTint="#FF7373" />
             </LinearLayout>
